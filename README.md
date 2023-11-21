@@ -15,4 +15,4 @@ Uses the following list as the deck of cards:
 
 There are 2 solutions:
     - My own attempt without external aid   - blackjack-ronan.py
-    - Following the replit guide            - blackjack-replit.py
+    - Following the replit guide            - blackjack-solution.py
